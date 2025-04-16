@@ -84,7 +84,7 @@ Compare with Billboard chart data
 Spotify API Documentation
 SQL Style Guide
 Database Performance Tuning
-Contributors: [Your Name]
+Contributors: Rishi Sikdar
 
 License: [MIT]
 
